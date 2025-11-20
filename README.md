@@ -7,7 +7,7 @@ Website **Kalkulator Zakat** interaktif berdasarkan Tabel Nishab BAZNAS Kota Sem
 ## File Structure
 
 ```
-revisi/
+zakat-multi/
 ├── index.html              # Main HTML file
 ├── styles.css              # Custom CSS styling
 ├── script.js               # JavaScript calculator logic
@@ -91,4 +91,5 @@ Tabel Nishab BAZNAS Kota Semarang - [tabel_nishab_baznas.jpg](tabel_nishab_bazna
 
 **Dibuat dengan**: HTML, CSS, Bootstrap 5, JavaScript
 **Tanggal**: November 2025
+
 
