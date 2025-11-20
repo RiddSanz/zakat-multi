@@ -29,12 +29,19 @@ revisi/
 ### Fitur Teknis:
 
 ✅ Responsive design (mobile & desktop)
+
 ✅ Bootstrap 5 UI components
+
 ✅ Tab navigation
+
 ✅ Form validation
+
 ✅ Nishab validation otomatis
+
 ✅ Format currency Rupiah
+
 ✅ Smooth animations
+
 ✅ Print-friendly
 
 ## Cara Menggunakan
@@ -84,3 +91,4 @@ Tabel Nishab BAZNAS Kota Semarang - [tabel_nishab_baznas.jpg](tabel_nishab_bazna
 
 **Dibuat dengan**: HTML, CSS, Bootstrap 5, JavaScript
 **Tanggal**: November 2025
+
